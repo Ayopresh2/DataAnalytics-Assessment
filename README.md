@@ -1,4 +1,4 @@
-# DataAnalytics-Assessment
+# 2-Assessment
 Cowrywise Data Analyst Assessment
 
 1. High-Value Customers with Multiple Products
@@ -21,3 +21,9 @@ Based on the hints provided in the assessment document, the field that confirms 
 
 A snippet showing the output of the query to test the conditions on the base table.
 
+
+
+
+2. Used subqueires to group the requirements for question 2 and joined with the select, was not as stressful as no 1.
+3. Used a UNION ALL to join the investment and savings plans together
+4. The 4th one seemed as though it would be the toughest especially due to the terms, looking closer, realized the calculations were literally there and just had to follow the formula. Had to check online to get some of the formulas tho e.g TIMESTAMPDIFF(MONTH, u.date_joined, CURDATE()) AS tenure_months checked how to get the time diff.
